@@ -2,7 +2,7 @@
 
 Contraction of _trivialities - strings = trivialistrings_.
 
-## `rev()`
+## rev()
 
 Reverse strings.
 
@@ -11,7 +11,7 @@ rev('Hello World')
 > 'dlroW olleH'
 ```
 
-## `kripkerize()`
+## kripkerize()
 
 > **Barry Kripke:** _Is that a reference to my speech impediment? That's pretty hurtful. I can't control it._
 
@@ -29,7 +29,7 @@ kripkerize("Yes, yes, yes. He's a jolly good fellow. What time do the strippers 
 > "Yes, yes, yes. He's a jowwy good fewwow. What time do the stwippews awwive?"
 ```
 
-## `margonize()`
+## margonize()
 
 > “Interesting capitalization,' I said. 'Yeah. I'm a big believer in random capitalization. The rules of capitalization are so unfair to words in the middle.” - Margo Spiegelman, Paper Towns
 
